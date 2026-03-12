@@ -1,5 +1,5 @@
 # ALL-classification-using-interpretable-features
-Acute Lymphoblastic Leukemia classification using clinically interpretable features, emphasizing interpretability and generalization.
+Acute Lymphoblastic Leukemia(ALL) classification using clinically interpretable features, emphasizing interpretability and generalization.
 
 This project focuses on building a machine learning pipeline for classifying Acute Lymphoblastic Leukemia (ALL) using clinically meaningful and medically interpretable features rather than relying solely on low-level image representations. The goal was to align feature engineering with diagnostic criteria used in clinical practice while maintaining strong predictive performance.
 
